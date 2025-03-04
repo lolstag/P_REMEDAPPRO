@@ -7,9 +7,7 @@
     - Rédigez **rapidement** un contrat, qu'on puisse le signer et que vous puissiez commencer à travailler
 
 - JDT
-  - imprimé le contract de d'approfondissement
-  - suivi des tutos youtube sur l'utilisation de godot et la création de jeux 2D (platformer)
-  - rempli le JDT      
+  - absent     
 
 ## 7.2
 - JDT
@@ -19,6 +17,8 @@
 
 ## 14.2
 - JDT
+  - imprimé le contract de d'approfondissement
+  - suivi des tutos youtube sur l'utilisation de godot et la création de jeux 2D (platformer)
   - avancer sur le jeu 2D animations, sprites, déplacements.
   - regardé des tutos sur les collisions 
   - essai de mettre des collisions
