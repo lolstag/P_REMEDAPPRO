@@ -38,3 +38,14 @@
   - finition du déplacement du player et joindre les projets de ryan et de nathan pour en faire qu'un seul
   - rempli le JDT
 
+
+## 7.3
+
+- Feedback XCL
+    - J'avais demandé de faire un bilan des objectifs, il n'a pas été fait
+    - Journal: il vous reste deux semaines pour corriger le tir de manière significative. Ce que vous avez noté en guise de journal est nettement insuffisant.
+    - Nommage de commits: il est nécessaire maintenant d'améliorer ce point car il est insuffisant à ce stade
+    - Je ne vois aucun commit avec du code de votre part dans aucun repo (ni le vôtre, ni celui de Ryan, ni celui de Nathan). Ma conclusion sur la base de ce que vous me fournissez c'est que vous ne contribuez pas au projet.
+    - Je ne trouve nulle part des indications claires qui me permettent de voir le résultat de votre travail
+
+- Journal de travail
