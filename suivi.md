@@ -49,3 +49,6 @@
     - Je ne trouve nulle part des indications claires qui me permettent de voir le résultat de votre travail
 
 - Journal de travail
+  - ajout de la fonctionnalité : quand le jouer tombe dans le vide le joueur se téléporte au point d'apparition initial
+  - ajout de la fonctionnalité : peut maintenant créer la map avec le tileset et regardé une vidéo pour m'aider lien : "https://youtu.be/7juWtgAjj2Y?si=ChLWLMsMX3C8eW7"
+  - fait le JDT et le status.md
