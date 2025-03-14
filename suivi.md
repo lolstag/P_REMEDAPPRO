@@ -62,4 +62,5 @@
     - Gardez l'easter egg pour quand le jeu sera fini
 
 - Journal de travail
-    -
+    -1h30 modifié la map mais promblème de merge en pull du coup tout c'est supprimé
+    -45 min aide au colègues
