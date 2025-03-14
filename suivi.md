@@ -52,3 +52,14 @@
   - ajout de la fonctionnalité : quand le jouer tombe dans le vide le joueur se téléporte au point d'apparition initial
   - ajout de la fonctionnalité : peut maintenant créer la map avec le tileset et regardé une vidéo pour m'aider lien : "https://youtu.be/7juWtgAjj2Y?si=ChLWLMsMX3C8eW7"
   - fait le JDT et le status.md
+
+
+## 14.3
+
+- Feedback XCL
+    - Il manque les durées dans votre journal
+    - Tous les commits sont faits par vous. Comment est-ce que je peux savoir qui a fait quoi ?
+    - Gardez l'easter egg pour quand le jeu sera fini
+
+- Journal de travail
+    -
