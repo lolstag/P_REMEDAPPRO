@@ -17,12 +17,12 @@
 
 ## 14.2
 - JDT
-  - imprimé le contract de d'approfondissement
-  - suivi des tutos youtube sur l'utilisation de godot et la création de jeux 2D (platformer)
-  - avancer sur le jeu 2D animations, sprites, déplacements.
-  - regardé des tutos sur les collisions 
-  - essai de mettre des collisions
-  - rempli le JDT
+  -5 min imprimé le contract de d'approfondissement
+  -20 min suivi des tutos youtube sur l'utilisation de godot et la création de jeux 2D (platformer)
+  -1h avancer sur le jeu 2D animations, sprites, déplacements.
+  -15 min regardé des tutos sur les collisions 
+  -30 min essai de mettre des collisions
+  -5 min rempli le JDT
 
 ## 28.2
 
@@ -35,8 +35,8 @@
     - Dans un cas comme dans l'autre, ce projet va vers un échec si vous continuez comme ça
 
 - JDT
-  - finition du déplacement du player et joindre les projets de ryan et de nathan pour en faire qu'un seul
-  - rempli le JDT
+  - 2h10 finition du déplacement du player et joindre les projets de ryan et de nathan pour en faire qu'un seul
+  - 5 min rempli le JDT
 
 
 ## 7.3
@@ -49,9 +49,9 @@
     - Je ne trouve nulle part des indications claires qui me permettent de voir le résultat de votre travail
 
 - Journal de travail
-  - ajout de la fonctionnalité : quand le jouer tombe dans le vide le joueur se téléporte au point d'apparition initial
-  - ajout de la fonctionnalité : peut maintenant créer la map avec le tileset et regardé une vidéo pour m'aider lien : "https://youtu.be/7juWtgAjj2Y?si=ChLWLMsMX3C8eW7"
-  - fait le JDT et le status.md
+  - 30 min ajout de la fonctionnalité : quand le jouer tombe dans le vide le joueur se téléporte au point d'apparition initial
+  - 1h40 ajout de la fonctionnalité : peut maintenant créer la map avec le tileset et regardé une vidéo pour m'aider lien : "https://youtu.be/7juWtgAjj2Y?si=ChLWLMsMX3C8eW7"
+  - 5 min fait le JDT et le status.md
 
 
 ## 14.3
@@ -63,4 +63,5 @@
 
 - Journal de travail
     -1h30 modifié la map mais promblème de merge en pull du coup tout c'est supprimé
-    -45 min aide au colègues
+    -40 min aide au colègues pour les speed boost
+    -5 min JDT + status.md
