@@ -62,6 +62,17 @@
     - Gardez l'easter egg pour quand le jeu sera fini
 
 - Journal de travail
-    -1h30 modifié la map mais promblème de merge en pull du coup tout c'est supprimé
-    -40 min aide au colègues pour les speed boost
+    -1h30 modifié la map mais promblème de merge en pull du coup tout c'est supprimé  
+    -40 min aide au colègues pour les speed boost  
     -5 min JDT + status.md
+
+# Conclusion
+
+Vous annoncez l'objectif de ramassage de Speed Boost et Jump Boost comme étant atteint, mais lorsque je joue à votre jeu (dans la version remise avec la release) je ne vois aucun de ces objets et je ne peux donc pas voir si ça marche ou non. Je valide quand même l'objectif parce que je l'ai aperçu sur un poste, mais pensez à l'avenir à vérifier l'exactitude de votre rendu par rapport à vos objectifs avant de livrer. S'il ne s'agissait pas d'un projet d'approfondissement, je ne le validerais pas.
+
+Cela dit, l'objectif d'approfondissement a bien été rempli. Vous avez acquis des connaissances dans la technologie que vous avez choisie et vous avez réussi à mettre en place un jeu qui ressemble à quelque chose (même s'il reste encore du travail pour qu'il soit vraiment jouable).
+
+L'expérience dont j'espère que vous tirerez le plus de bénéfices c'est celle qui concerne le travail à plusieurs sur un même programme. Bien que cela n'ai pas été chiffré, il me semble que vous avez passé pas mal de temps à tout mettre ensemble dans un seul projet. J'espère que cela vous donnera des idées pour que cela se passe plus facilement une prochaine fois.
+
+Votre projet est donc validé
+
